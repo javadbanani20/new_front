@@ -137,3 +137,57 @@ background-position: center;
     font-size: 2.6rem;
 
 }
+.main2{
+    margin-top: 4.8rem;
+    text-align: center;
+}
+.main-content2{
+
+}
+.main-content2_title{
+    font-family: Estedad-vf;
+    font-weight: bold ;
+    font-size: 2.6rem;
+
+}
+/**card section**/
+.card_wrapper{
+
+}
+.card{
+
+}
+.card_imge{
+
+}
+.card_warpper2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10rem;
+    margin-top: 5rem;
+    flex-wrap: wrap;
+}
+.card2{
+    width: 30rem;
+
+}
+.card_imge2{
+    width: 100%;
+    position: relative;
+}
+/**newsletter**/
+.news-letter{
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+}
+.news-letter_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.news-letter_imge{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
